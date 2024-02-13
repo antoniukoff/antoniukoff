@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey! I'm Vlad 👋
 
-<!--
-**antoniukoff/antoniukoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🕹️ Game Programmer | C++ Aficionado | Engine & Graphics Wizard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From gamer to coder: My passion for programming began with my childhood love for video games. This led me to explore the realm of C++ and engine development. Ever since, I have been on a mission to create engaging games and engines through coding, with a particular interest in graphics and tools that drive the game design.
+
+### 🚀 What I'm Up To
+
+* Engine Development: Crafting a lightweight, efficient game engine that's about optimization and usability.
+* Tool Creation: Developing intuitive tools to make game development accessible and fun for designers everywhere.
+* Modularity: I love ECS design and like building clean and reusable code(I'm a perfectionist@).
+* Learning: I love advancing my skills in rendering techniques, modern C++ standards, game tools, and optimization.
+
+### 🎉 Fun Fact
+When not coding, I'm gaming, brewing the perfect cup of coffee, playing guitar, or reading dystopian books.
+  
+### 💡 Looking For
+Opportunities to innovate in engine and graphics development, tool-building, and optimization of existing codebase.
+
+
+### 📫 Reach Out
+via [Email](antoniuk0372@gmail.com) or [LinkedIn](https://www.linkedin.com/in/antoniukoff/)
+
+
