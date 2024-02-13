@@ -16,7 +16,7 @@ My passion for programming began with my childhood love for video games. This le
 When not coding, I'm gaming, brewing the perfect cup of coffee, playing guitar, or reading dystopian books.
   
 ### 💡 Looking For
-Opportunities to innovate in-engine graphics and tool development, tool-building, and optimization of existing codebase.
+Opportunities to innovate in-engine graphics and tool development, and optimization of existing codebases.
 
 
 ### 📫 Reach Out
