@@ -13,7 +13,7 @@ My passion for programming began with my childhood love for video games. This le
 * Learning: I love advancing my skills in rendering techniques, modern C++ standards, game tools, and optimization.
 
 ### 🎉 Fun Fact
-When not coding, I'm gaming, brewing the perfect cup of coffee, playing guitar, or reading dystopian books.
+When not coding, I'm gaming, brewing the perfect cup of coffee, playing guitar, or benching 2 plates.
   
 ### 💡 Looking For
 Opportunities to innovate in-engine graphics and tool development, and optimization of existing codebases.
