@@ -11,9 +11,6 @@ My passion for programming began with my childhood love for video games. Later, 
 * Tool Creation: Developing intuitive tools to make game development accessible and fun for designers everywhere.
 * Modularity: I love ECS design and like building clean and reusable code(I'm a perfectionist).
 * Learning: I love advancing my skills in rendering techniques, modern C++ standards, game tools, and optimization.
-
-### 🎉 Fun Fact
-When not coding, I'm gaming, brewing the perfect cup of coffee, playing guitar, or benching 2 plates.
   
 ### 💡 Looking For
 Opportunities to innovate in-engine graphics, tool development, and optimization of existing codebases.
