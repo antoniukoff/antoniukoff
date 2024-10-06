@@ -9,9 +9,9 @@ I'm a game developer with a focus on game engines, graphics programming, and per
 
 ### 🚀 **Projects I'm Proud Of:**
 - **[Unbreaded](https://github.com/MashdorDev/unbreaded)**: A 3D action-puzzle platformer where I implemented an AI system with custom behaviors and optimized gameplay code to reduce bugs and boost performance.
-- **[Reflecs](https://github.com/antoniukoff/reflecs)**: A lightweight ECS library for efficient entity management featuring compile-time reflection, individual field pooling, and more.
-- **[Inferno Engine](https://github.com/antoniukoff/InfernoEngine-Demo)**: A game engine designed for performant 2D game development featuring batch rendering, particle system, UI layer, etc.
-- **[EvolvECS](https://github.com/antoniukoff/EvolveECS)**: A 3D engine project that includes a physics engine and advanced rendering techniques, all written from the ground up in C++.
+- **[Reflecs](https://github.com/antoniukoff/reflecs)**: A fast ECS library for efficient entity management featuring compile-time reflection, individual field pooling, and more.
+- **[Inferno Engine](https://github.com/antoniukoff/InfernoEngine-Demo)**: A game engine designed for performant 2D game development featuring batch rendering, particle system, UI, etc.
+- **[EvolvECS](https://github.com/antoniukoff/EvolveECS)**: A 3D engine project that includes a physics engine and advanced rendering, all written from the ground up in C++.
 
 Feel free to explore my repositories! You’ll find a mix of well-documented projects and personal experiments that help me learn and grow as a developer.
 
