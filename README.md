@@ -5,7 +5,7 @@ I'm a game developer with a focus on game engines, graphics programming, and per
 ### 🔧 **What I do:**
 - **Game Engines**: I have a strong passion for game engine architecture. I have developed multiple engines from scratch, with a focus on rendering, physics, and optimizing performance.
 - **Graphics Programming**: OpenGL and Vulkan are my go-to APIs for working with shaders, lighting, and 3D rendering.
-- **Optimization**: I enjoy squeezing performance out of systems, especially through techniques like memory management, multithreading, and data-oriented design.
+- **Optimization**: I enjoy squeezing performance out through memory management, multithreading, data-oriented design, and other approaches.
 
 ### 🚀 **Projects I'm Proud Of:**
 - **[Unbreaded](https://github.com/MashdorDev/unbreaded)**: A 3D action-puzzle platformer where I implemented an AI system with custom behaviors and optimized gameplay code to reduce bugs and boost performance.
