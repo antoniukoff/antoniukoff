@@ -1,11 +1,6 @@
 # Hi, I'm Volodymyr 👋
 
-I'm a game developer with a focus on game engines, graphics programming, and performance optimization. My projects range from custom game engines to complete games, and this GitHub showcases my technical skills and work.
-
-### 🔧 **What I do:**
-- **Game Engines**: I have a strong passion for game engine architecture. I have developed multiple engines from scratch, with a focus on rendering, physics, and optimizing performance.
-- **Graphics Programming**: OpenGL and Vulkan are my go-to APIs for working with shaders, lighting, and 3D rendering.
-- **Optimization**: I enjoy squeezing performance out through memory management, multithreading, data-oriented design, and other approaches.
+I'm a game developer with a focus on game engines, graphics programming, and low-level optimization. My projects range from custom game engines to complete games, and this GitHub showcases my technical skills and work.
 
 ### 🚀 **Projects I'm Proud Of:**
 - **[Unbreaded](https://github.com/MashdorDev/unbreaded)**: A 3D action-puzzle platformer where I implemented an AI system with custom behaviors and optimized gameplay code to reduce bugs and boost performance.
@@ -16,7 +11,7 @@ I'm a game developer with a focus on game engines, graphics programming, and per
 Feel free to explore my repositories! You’ll find a mix of well-documented projects and personal experiments that help me learn and grow as a developer.
 
 ### 🎓 **A bit about me:**
-I’m currently finishing my Advanced Diploma in Game Programming at Humber College in Toronto. I’m open to collaboration and always looking for new challenges whether it’s a project idea or just discussing interesting technical topics.
+I’m finishing my Advanced Diploma in Game Programming at Humber College in Toronto. I’m open to collaboration and always looking for new challenges whether it’s a project idea or just discussing interesting technical topics.
 
 ### 📫 **Get in touch:**
 - [Email](mailto:volodymyrantoniuk.dev@gmail.com)
